@@ -74,20 +74,35 @@ Chatbot solutions
 
 🛠️ Tech Stack
 
-Frontend:
-HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • TypeScript
+### Frontend
 
-Backend:
-Node.js • NestJS • Express.js • REST APIs
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 
-Databases:
-MongoDB • PostgreSQL • MySQL
+### Backend
 
-AI & APIs:
-Google Gemini API • Groq API • RAG • AI Integration • Google APIs • AI Automation
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Express](https://skillicons.dev/icons?i=express)
 
-Tools:
-Git • GitHub • Vercel • Figma • VS Code
+### Database
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Figma](https://skillicons.dev/icons?i=figma)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 🤖 Featured Projects
 
